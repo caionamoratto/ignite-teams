@@ -13,7 +13,8 @@ Aplicativo para criar turmas, cada turma possui 2 times.
    ```
 
 
-Notas do estudo.
+3. Notas do estudo.
+```bash
 --Instalado babel plugin module resolver para resolver importações.
 - No arquivo de config do babel criar os alias para as importações:
    plugins: [
@@ -74,3 +75,4 @@ Notas do estudo.
    -- Armazenamento
    -Usar o AsyncStorage
    npx expo install @react-native-async-storage/async-storage
+   ```
