@@ -1,15 +1,19 @@
-1. Install dependencies
+Aplicativo para criar turmas, cada turma possui 2 times.
+
+1. Instale as dependências
 
    ```bash
    npm install
    ```
 
-2. Start the app
+2. Inicie o aplicativo
 
    ```bash
     npx expo start
    ```
 
+
+Notas do estudo.
 --Instalado babel plugin module resolver para resolver importações.
 - No arquivo de config do babel criar os alias para as importações:
    plugins: [
